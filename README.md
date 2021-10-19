@@ -1,5 +1,5 @@
 # auth
-Django authentication with REST API
+Django authentication with REST API and tokens
 <br>
 register user
 <br>
